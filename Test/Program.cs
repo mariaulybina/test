@@ -6,7 +6,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Знакомство с GitHub");
+            Console.WriteLine("Проверка изменений на сервере");
         }
     }
 }
